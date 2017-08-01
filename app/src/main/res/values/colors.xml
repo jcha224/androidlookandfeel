@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uwPurple">#4B2E83</color>
+    <color name="uwGold">#B7A57A</color>
+    <color name="uwMetalicGold">#85754D</color>
+    <color name="uwLightGray">#D9D9D9</color>
+    <color name="uwDarkGray">#444444</color>
+    <color name="uwWhite">#FFFFFF</color>
+    <color name="uwBlack">#000000</color>
+</resources>
